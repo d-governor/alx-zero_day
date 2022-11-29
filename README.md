@@ -1,1 +1,1 @@
-My first readme
+Solomon's first readme
